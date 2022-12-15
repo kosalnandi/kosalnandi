@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mr Kosal Nandi
 - 👀 I’m interested in New Technology
-- 🌱 I’m currently learning Kotlin 
-- 💞️ I’m open to collaborate on Android Development
+- 🌱 I’m currently learning Kotlin and UI Design
+- 💞️ I’m open to collaborate on Android Development and UI Designer
 - 📫 Contact me koshalnandi123@gmail.com
 
 <!---
